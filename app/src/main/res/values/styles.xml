@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SquaredSolidButton" parent="Widget.AppCompat.Button">
+        <!-- Background color -->
+        <item name="android:background">#FF6200EE</item>
+
+        <!-- Text color -->
+        <item name="android:textColor">#FFFFFF</item>
+
+        <!-- Text size -->
+        <item name="android:textSize">16sp</item>
+
+        <!-- Padding -->
+
+        <!-- No corner radius for a squared look -->
+        <item name="android:backgroundTintMode">src_over</item>
+    </style>
+
+
+</resources>

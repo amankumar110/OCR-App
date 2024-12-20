@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OCR App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="feature_image_to_text_title">Image-To-Text</string>
+    <string name="feature_image_to_text_description">Convert Images into readable text instantly.</string>
+    <string name="feature_text_to_speech_title">Text-To-Speech</string>
+    <string name="feature_text_to_speech_description">Listen to the text you just pasted.</string>
+    <string name="feature_barcode_scanning_title">Barcode Scanning</string>
+    <string name="feature_barcode_scanning_description">Debunk complex encrypted QR codes</string>
+    <string name="upcoming_features_title">Coming Soon!</string>
+    <string name="upcoming_features_description">The development of new OCR based features in under work. Please be pateint.</string>
+    <string name="get_text">Get Text</string>
+    <string name="no_text_to_speak">Please Write Some Text For Speaking</string>
+    <string name="long_text_message">The Message You Submitted Was Too Long, Please Shorten it</string>
+    <string name="error_to_speak_message">Uh Oh!, Looks like there is an error to speak. Try again</string>
+    <string name="language_not_supported_message">The Language is currently unsupported</string>
+    <string name="visit_link_text">Visit Link</string>
+    <string name="barcode_heading">Place Barcode Inside the Block</string>
+    <string name="camera_permission_rationale_message">Camera Permission Is Important!</string>
+</resources>
